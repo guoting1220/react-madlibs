@@ -19,6 +19,7 @@ const Madlibs = () => {
         const { noun1, noun2, adjective, color } = submittedData;
         return (
             <>
+                <h1>Madlibs!</h1>
                 <p>There was a {color} {noun1} who loved a {adjective} {noun2}.</p>
                 <button onClick={restart}>Restart</button>
             </>
