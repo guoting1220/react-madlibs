@@ -1,0 +1,10 @@
+.MadlibsForm-submitBtn {
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: white;
+    height: 25px;
+    margin-top: 20px;
+}
